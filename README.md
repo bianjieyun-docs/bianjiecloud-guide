@@ -2,7 +2,7 @@
 
 > 官网：[边界云加速](https://bianjiecloud.com/) · 本仓库整理 边界云加速 的使用教程、相关工具和常见问题，持续更新。
 
-关键词：边界云 · 新手指南 · 注册账号 · 套餐选择 · 客户端安装 · 第一次连接 · 线路测速 · 常见问题 · official-sync · light-edit · 订阅导入失败 · 订阅更新失败 · Clash Verge Rev · Clash Meta for Android · Shadowrocket · 订阅链接 · 节点为空 · clash_meta · v2rayn · singbox · 订阅链接泄露 · 订阅更新 · ChatGPT 打不开 · Claude 访问问题 · Gemini 地区限制 · AI 工具访问 · 线路切换 · 人机验证 · 智能分流 · 边界云套餐
+关键词：智能分流 · 全局代理 · 直连模式 · 系统代理 · TUN模式 · Clash · official-sync · light-edit · 边界云 · 新手指南 · 注册账号 · 套餐选择 · 客户端安装 · 第一次连接 · 线路测速 · 常见问题 · 订阅导入失败 · 订阅更新失败 · Clash Verge Rev · Clash Meta for Android · Shadowrocket · 订阅链接 · 节点为空 · clash_meta · v2rayn · singbox · 订阅链接泄露 · 订阅更新 · ChatGPT 打不开 · Claude 访问问题
 
 ## 平台介绍
 
@@ -11,6 +11,7 @@
 
 ## 教程
 
+- [一文看懂智能分流和全局代理：规则、全局、直连与 TUN 模式](docs/tutorials/intelligent-split-global-proxy-tun-mode.md)
 - [2026 年 10 月边界云新手指南：注册、套餐与第一次连接](docs/tutorials/bianjiecloud-getting-started-guide.md)
 - [订阅链接怎么选与泄露处理：clash_meta、v2rayn、singbox 教程（2026 年 10 月）](docs/tutorials/subscription-link-format-and-leak-handling.md)
 - [2026 年 10 月边界云套餐怎么选：季付、年付与按量流量包对比](docs/tutorials/bianjiecloud-plans-guide.md)
