@@ -2,7 +2,7 @@
 
 > 官网：[边界云加速](https://bianjiecloud.com/) · 本仓库整理 边界云加速 的使用教程、相关工具和常见问题，持续更新。
 
-关键词：Android 官方客户端 · 安卓 VPN 连接 · official-sync · 智能分流 · 全局代理 · 直连模式 · 系统代理 · TUN模式 · Clash · light-edit · 边界云 · 新手指南 · 注册账号 · 套餐选择 · 客户端安装 · 第一次连接 · 线路测速 · 常见问题 · 订阅导入失败 · 订阅更新失败 · Clash Verge Rev · Clash Meta for Android · Shadowrocket · 订阅链接 · 节点为空 · clash_meta · v2rayn · singbox · 订阅链接泄露 · 订阅更新
+关键词：Clash Verge Rev · 订阅导入 · official-sync · Android 官方客户端 · 安卓 VPN 连接 · 智能分流 · 全局代理 · 直连模式 · 系统代理 · TUN模式 · Clash · light-edit · 边界云 · 新手指南 · 注册账号 · 套餐选择 · 客户端安装 · 第一次连接 · 线路测速 · 常见问题 · 订阅导入失败 · 订阅更新失败 · Clash Meta for Android · Shadowrocket · 订阅链接 · 节点为空 · clash_meta · v2rayn · singbox · 订阅链接泄露
 
 ## 平台介绍
 
@@ -11,6 +11,7 @@
 
 ## 教程
 
+- [Clash Verge Rev 订阅导入与系统代理配置：Windows / macOS 完整步骤](docs/tutorials/clash-verge-rev-subscription-import-windows-macos.md)
 - [Android 官方客户端安装与连接：边界云安卓 App 使用教程](docs/tutorials/android-official-client-install-connect-guide.md)
 - [一文看懂智能分流和全局代理：规则、全局、直连与 TUN 模式](docs/tutorials/intelligent-split-global-proxy-tun-mode.md)
 - [2026 年 10 月边界云新手指南：注册、套餐与第一次连接](docs/tutorials/bianjiecloud-getting-started-guide.md)
