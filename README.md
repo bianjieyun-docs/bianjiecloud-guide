@@ -2,7 +2,7 @@
 
 > 官网：[边界云加速](https://bianjiecloud.com/) · 本仓库整理 边界云加速 的使用教程、相关工具和常见问题，持续更新。
 
-关键词：边界云付款方式 · USDT TRC20 支付 · official-sync · Shadowrocket · iPhone 订阅导入 · macOS 客户端安装 · Apple 芯片 Intel · Clash Verge Rev · 订阅导入 · Android 官方客户端 · 安卓 VPN 连接 · 智能分流 · 全局代理 · 直连模式 · 系统代理 · TUN模式 · Clash · light-edit · 边界云 · 新手指南 · 注册账号 · 套餐选择 · 客户端安装 · 第一次连接 · 线路测速 · 常见问题 · 订阅导入失败 · 订阅更新失败 · Clash Meta for Android · 订阅链接
+关键词：Clash Meta for Android · CMFA 订阅导入 · official-sync · 边界云付款方式 · USDT TRC20 支付 · Shadowrocket · iPhone 订阅导入 · macOS 客户端安装 · Apple 芯片 Intel · Clash Verge Rev · 订阅导入 · Android 官方客户端 · 安卓 VPN 连接 · 智能分流 · 全局代理 · 直连模式 · 系统代理 · TUN模式 · Clash · light-edit · 边界云 · 新手指南 · 注册账号 · 套餐选择 · 客户端安装 · 第一次连接 · 线路测速 · 常见问题 · 订阅导入失败 · 订阅更新失败
 
 ## 平台介绍
 
@@ -11,6 +11,7 @@
 
 ## 教程
 
+- [CMFA 安卓订阅导入与自动更新教程](docs/tutorials/cmfa-android-subscription-import-guide.md)
 - [iPhone Shadowrocket（小火箭）导入订阅与连接教程](docs/tutorials/iphone-shadowrocket-subscription-setup.md)
 - [Mac 安装边界云官方客户端：Apple 芯片与 Intel 版选择指南](docs/tutorials/macos-official-client-apple-silicon-intel-installation.md)
 - [Clash Verge Rev 订阅导入与系统代理配置：Windows / macOS 完整步骤](docs/tutorials/clash-verge-rev-subscription-import-windows-macos.md)
