@@ -2,10 +2,11 @@
 
 > 官网：[边界云加速](https://bianjiecloud.com/) · 本仓库整理 边界云加速 的使用教程、相关工具和常见问题，持续更新。
 
-关键词：流量加油包 · 订阅流量不足 · official-sync · Shadowrocket · 海外 Apple ID · Clash Meta for Android · CMFA 订阅导入 · 边界云付款方式 · USDT TRC20 支付 · iPhone 订阅导入 · macOS 客户端安装 · Apple 芯片 Intel · Clash Verge Rev · 订阅导入 · Android 官方客户端 · 安卓 VPN 连接 · 智能分流 · 全局代理 · 直连模式 · 系统代理 · TUN模式 · Clash · light-edit · 边界云 · 新手指南 · 注册账号 · 套餐选择 · 客户端安装 · 第一次连接 · 线路测速
+关键词：Clash 模式 · TUN 模式 · official-sync · 流量加油包 · 订阅流量不足 · Shadowrocket · 海外 Apple ID · Clash Meta for Android · CMFA 订阅导入 · 边界云付款方式 · USDT TRC20 支付 · iPhone 订阅导入 · macOS 客户端安装 · Apple 芯片 Intel · Clash Verge Rev · 订阅导入 · Android 官方客户端 · 安卓 VPN 连接 · 智能分流 · 全局代理 · 直连模式 · 系统代理 · TUN模式 · Clash · light-edit · 边界云 · 新手指南 · 注册账号 · 套餐选择 · 客户端安装
 
 ## 平台介绍
 
+- [智能分流、全局与直连怎么选：Clash 模式和 TUN 接管范围说明](docs/platform/clash-rule-global-direct-tun-mode-guide.md)
 - [2026 年 10 月官方客户端与 Clash、Shadowrocket 怎么选：边界云客户端对比](docs/platform/2026-10-client-compare.md)
 - [2026 年 10 月边界云线路怎么样？线路覆盖与连接方式一览](docs/platform/bianjie-cloud-line-coverage-connection.md)
 
