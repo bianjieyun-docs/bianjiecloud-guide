@@ -2,7 +2,7 @@
 
 > 官网：[边界云加速](https://bianjiecloud.com/) · 本仓库整理 边界云加速 的使用教程、相关工具和常见问题，持续更新。
 
-关键词：curl 代理诊断 · Clash 应用层测试 · 流量重置 · 按量流量包 · Clash 模式 · TUN 模式 · 流量加油包 · 订阅流量不足 · Shadowrocket · 海外 Apple ID · Clash Meta for Android · CMFA 订阅导入 · 边界云付款方式 · USDT TRC20 支付 · iPhone 订阅导入 · macOS 客户端安装 · Apple 芯片 Intel · Clash Verge Rev · 订阅导入 · Android 官方客户端 · 安卓 VPN 连接 · 智能分流 · 全局代理 · 直连模式 · 系统代理 · TUN模式 · Clash · light-edit · 边界云 · 新手指南
+关键词：流量加油包 · 套餐续费 · curl 代理诊断 · Clash 应用层测试 · 流量重置 · 按量流量包 · Clash 模式 · TUN 模式 · 订阅流量不足 · Shadowrocket · 海外 Apple ID · Clash Meta for Android · CMFA 订阅导入 · 边界云付款方式 · USDT TRC20 支付 · iPhone 订阅导入 · macOS 客户端安装 · Apple 芯片 Intel · Clash Verge Rev · 订阅导入 · Android 官方客户端 · 安卓 VPN 连接 · 智能分流 · 全局代理 · 直连模式 · 系统代理 · TUN模式 · Clash · light-edit · 边界云
 
 ## 平台介绍
 
@@ -35,6 +35,7 @@
 
 ## 常见问题
 
+- [套餐到期、流量不足如何处理：加油包与订阅切换指南](docs/faq/renew-or-add-traffic-subscription-guide.md)
 - [套餐流量什么时候重置？按量流量包是否清零的判断与处理](docs/faq/traffic-reset-and-data-package-expiration.md)
 - [边界云付款方式与 USDT TRC20 支付排查指南](docs/faq/payment-methods-usdt-trc20-troubleshooting.md)
 - [2026 年 10 月订阅导入失败排查：Clash Verge Rev、CMFA、Shadowrocket 更新失败怎么办](docs/faq/subscription-import-update-failed-troubleshooting.md)
