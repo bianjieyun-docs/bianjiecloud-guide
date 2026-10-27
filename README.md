@@ -2,7 +2,7 @@
 
 > 官网：[边界云加速](https://bianjiecloud.com/) · 本仓库整理 边界云加速 的使用教程、相关工具和常见问题，持续更新。
 
-关键词：流量加油包 · 套餐续费 · curl 代理诊断 · Clash 应用层测试 · 流量重置 · 按量流量包 · Clash 模式 · TUN 模式 · 订阅流量不足 · Shadowrocket · 海外 Apple ID · Clash Meta for Android · CMFA 订阅导入 · 边界云付款方式 · USDT TRC20 支付 · iPhone 订阅导入 · macOS 客户端安装 · Apple 芯片 Intel · Clash Verge Rev · 订阅导入 · Android 官方客户端 · 安卓 VPN 连接 · 智能分流 · 全局代理 · 直连模式 · 系统代理 · TUN模式 · Clash · light-edit · 边界云
+关键词：Clash Verge Rev · 7890端口被占用 · 端口冲突排查 · netstat · lsof · 流量加油包 · 套餐续费 · curl 代理诊断 · Clash 应用层测试 · 流量重置 · 按量流量包 · Clash 模式 · TUN 模式 · 订阅流量不足 · Shadowrocket · 海外 Apple ID · Clash Meta for Android · CMFA 订阅导入 · 边界云付款方式 · USDT TRC20 支付 · iPhone 订阅导入 · macOS 客户端安装 · Apple 芯片 Intel · 订阅导入 · Android 官方客户端 · 安卓 VPN 连接 · 智能分流 · 全局代理 · 直连模式 · 系统代理
 
 ## 平台介绍
 
@@ -12,6 +12,7 @@
 
 ## 教程
 
+- [Clash Verge Rev 7890 端口被占用怎么办？Windows/macOS 排查教程](docs/tutorials/clash-verge-rev-7890-port-occupied-windows-macos.md)
 - [边界云流量加油包购买与到账教程：季付、年付和按量订阅怎么加流量](docs/tutorials/bianjiecloud-traffic-topup-guide.md)
 - [海外 Apple ID 下载 Shadowrocket：iPhone 安全安装与账号切换指南](docs/tutorials/overseas-apple-id-download-shadowrocket-iphone.md)
 - [CMFA 安卓订阅导入与自动更新教程](docs/tutorials/cmfa-android-subscription-import-guide.md)
