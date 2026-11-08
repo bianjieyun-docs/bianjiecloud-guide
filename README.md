@@ -2,7 +2,7 @@
 
 > 官网：[边界云加速](https://bianjiecloud.com/) · 本仓库整理 边界云加速 的使用教程、相关工具和常见问题，持续更新。
 
-关键词：sing-box check · sing-box 配置检查 · sing-box · rule_set · tracert · 路由诊断 · PowerShell curl · curl.exe · HTTP 代理诊断 · Clash Verge Rev · 7890端口被占用 · 端口冲突排查 · netstat · lsof · 流量加油包 · 套餐续费 · curl 代理诊断 · Clash 应用层测试 · 流量重置 · 按量流量包 · Clash 模式 · TUN 模式 · 订阅流量不足 · Shadowrocket · 海外 Apple ID · Clash Meta for Android · CMFA 订阅导入 · 边界云付款方式 · USDT TRC20 支付 · iPhone 订阅导入
+关键词：sing-box · route.rule_set · sing-box check · sing-box 配置检查 · rule_set · tracert · 路由诊断 · PowerShell curl · curl.exe · HTTP 代理诊断 · Clash Verge Rev · 7890端口被占用 · 端口冲突排查 · netstat · lsof · 流量加油包 · 套餐续费 · curl 代理诊断 · Clash 应用层测试 · 流量重置 · 按量流量包 · Clash 模式 · TUN 模式 · 订阅流量不足 · Shadowrocket · 海外 Apple ID · Clash Meta for Android · CMFA 订阅导入 · 边界云付款方式 · USDT TRC20 支付
 
 ## 平台介绍
 
@@ -12,6 +12,7 @@
 
 ## 教程
 
+- [sing-box route.rule_set 怎么配置？规则集引用与路由匹配排查教程](docs/tutorials/sing-box-route-rule-set-config.md)
 - [sing-box check 怎么判断配置检查成功？用退出状态排查 JSON 配置](docs/tutorials/sing-box-check-exit-status-json-config.md)
 - [sing-box rule_set 配置报错排查：source 规则集格式与 DNS 引用位置](docs/tutorials/sing-box-rule-set-source-format-troubleshooting.md)
 - [Clash Verge Rev 7890 端口被占用怎么办？Windows/macOS 排查教程](docs/tutorials/clash-verge-rev-7890-port-occupied-windows-macos.md)
