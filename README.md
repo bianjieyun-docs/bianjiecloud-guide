@@ -2,7 +2,7 @@
 
 > 官网：[边界云加速](https://bianjiecloud.com/) · 本仓库整理 边界云加速 的使用教程、相关工具和常见问题，持续更新。
 
-关键词：sing-box · auto_detect_interface · store_dns · DNS rule_set · route.rule_set · sing-box check · sing-box 配置检查 · rule_set · tracert · 路由诊断 · PowerShell curl · curl.exe · HTTP 代理诊断 · Clash Verge Rev · 7890端口被占用 · 端口冲突排查 · netstat · lsof · 流量加油包 · 套餐续费 · curl 代理诊断 · Clash 应用层测试 · 流量重置 · 按量流量包 · Clash 模式 · TUN 模式 · 订阅流量不足 · Shadowrocket · 海外 Apple ID · Clash Meta for Android
+关键词：sing-box route.final · 默认出站 · sing-box · auto_detect_interface · store_dns · DNS rule_set · route.rule_set · sing-box check · sing-box 配置检查 · rule_set · tracert · 路由诊断 · PowerShell curl · curl.exe · HTTP 代理诊断 · Clash Verge Rev · 7890端口被占用 · 端口冲突排查 · netstat · lsof · 流量加油包 · 套餐续费 · curl 代理诊断 · Clash 应用层测试 · 流量重置 · 按量流量包 · Clash 模式 · TUN 模式 · 订阅流量不足 · Shadowrocket
 
 ## 平台介绍
 
@@ -12,6 +12,7 @@
 
 ## 教程
 
+- [sing-box route.final 怎么配置？默认出站与规则匹配排查教程](docs/tutorials/sing-box-route-final-config-guide.md)
 - [sing-box route.auto_detect_interface 配置与 TUN 路由环路排查](docs/tutorials/sing-box-auto-detect-interface-tun-routing.md)
 - [sing-box store_dns 怎么配置？持久化 DNS 缓存字段排查教程](docs/tutorials/sing-box-store-dns-dns-cache-config.md)
 - [sing-box dns.rules[*].rule_set 不生效怎么办？DNS 规则匹配与 final 排查教程](docs/tutorials/sing-box-dns-rules-rule-set-not-working.md)
