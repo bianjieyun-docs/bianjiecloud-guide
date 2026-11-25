@@ -2,7 +2,7 @@
 
 > 官网：[边界云加速](https://bianjiecloud.com/) · 本仓库整理 边界云加速 的使用教程、相关工具和常见问题，持续更新。
 
-关键词：curl · --connect-timeout · curl --noproxy · NO_PROXY · sing-box route.final · 默认出站 · sing-box · auto_detect_interface · store_dns · DNS rule_set · route.rule_set · sing-box check · sing-box 配置检查 · rule_set · tracert · 路由诊断 · PowerShell curl · curl.exe · HTTP 代理诊断 · Clash Verge Rev · 7890端口被占用 · 端口冲突排查 · netstat · lsof · 流量加油包 · 套餐续费 · curl 代理诊断 · Clash 应用层测试 · 流量重置 · 按量流量包
+关键词：sing-box · default_domain_resolver · curl · --connect-timeout · curl --noproxy · NO_PROXY · sing-box route.final · 默认出站 · auto_detect_interface · store_dns · DNS rule_set · route.rule_set · sing-box check · sing-box 配置检查 · rule_set · tracert · 路由诊断 · PowerShell curl · curl.exe · HTTP 代理诊断 · Clash Verge Rev · 7890端口被占用 · 端口冲突排查 · netstat · lsof · 流量加油包 · 套餐续费 · curl 代理诊断 · Clash 应用层测试 · 流量重置
 
 ## 平台介绍
 
@@ -12,6 +12,7 @@
 
 ## 教程
 
+- [sing-box route.default_domain_resolver 怎么配置？DNS 解析器引用排查教程](docs/tutorials/sing-box-route-default-domain-resolver-dns.md)
 - [curl --connect-timeout 怎么用？连接超时排查与代理诊断教程](docs/tutorials/curl-connect-timeout-connection-timeout.md)
 - [curl --noproxy 怎么用？排查 NO_PROXY 导致的代理绕过](docs/tutorials/curl-noproxy-no-proxy-bypass-troubleshooting.md)
 - [sing-box route.final 怎么配置？默认出站与规则匹配排查教程](docs/tutorials/sing-box-route-final-config-guide.md)
